@@ -11,13 +11,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=slateorange&locale=en&hide_border=true&custom_title=GitHub Stats&username=plperera" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=10&theme=slateorange&hide_border=true&custom_title=Linguagens mais usadas&username=plperera" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=slateorange&locale=en&hide_border=true&custom_title=GitHub Stats&username=plperera" width="33%" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=10&theme=slateorange&hide_border=true&custom_title=Linguagens mais usadas&username=plperera" width="33%" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=plperera&theme=slateorange&hide_border=true" width="33%">
 </div>
 
 ###
 
 <!-- <img href="https://raw.githubusercontent.com/plperera/plperera/blob/output/snake.svg" alt="Snake animation" /> -->
+<!-- ![plperera snake gif](https://github.com/plperera/plperera/blob/output/github-contribution-grid-snake.svg) -->
 
 ###
 
