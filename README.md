@@ -17,7 +17,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/plperera/plperera/blob/output/snake.svg" alt="Snake animation" />
+<!-- <img href="https://raw.githubusercontent.com/plperera/plperera/blob/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
@@ -37,14 +37,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<h5 align="center">Jogos</h5>
-
-###
-
-<p align="left">✨ bugging && debugging<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
@@ -89,5 +81,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="85" alt="bash logo"  />
 </div>
 
-###
-Profile Readme Generator
+
