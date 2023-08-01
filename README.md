@@ -1,10 +1,10 @@
 ## Hi there && Hi World
 <h1 align="center">Software Engineer</h1>
 
-<div>  
+<!-- <div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=plperera&show_icons=true&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plperera&layout=compact&show_icons=true&theme=tokyonight">
-</div>
+</div> -->
 
 <h2>Languages and Tools</h2>
 
