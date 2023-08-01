@@ -1,6 +1,6 @@
-## Hi there && Hi World
-<h1 align="center">Software Engineer</h1>
+## Software Engineer
 
+<h3 align="center">Hi there && Hi World</h3>
 <h3 align="center">🔹 I am a Full Stack Developer, with experience in various technologies and I am available for freelance work and new opportunities</h3>
 <h4 align="center">🔹 I am available and open to new opportunities, feel free to get in touch with me</h4>
 <br />
